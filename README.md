@@ -24,7 +24,7 @@ The Desktop Monitoring System is a Power BI dashboard designed to monitor and an
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 2. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/desktop-monitoring-system.git
+    git clone https://github.com/Dhrubo2003/desktop-monitoring-system.git
     ```
 3. Open the `.pbix` file in Power BI Desktop.
 
